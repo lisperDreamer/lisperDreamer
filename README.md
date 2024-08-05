@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @lisperDreamer
 - 👀 I’m interested in coding, scripting and typesetting.
-- 🌱 I’m currently learning Java, Clojure, JavaScript, Go, Python and Markup languages.
-- 💞️ I’m looking to collaborate on developping on coding, scripting and editing.
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him/his
+- 🌱 I’m currently learning Ruby, Bash, Go, Python and Markup languages.
+- 💞️ I’m looking to collaborate on coding, scripting and editing.
+- 📫 How to reach me ... ?
 - ⚡ Fun fact: I'm lazy as a cat.
 
 <!---
